@@ -6,7 +6,7 @@ Welcome to the Random Password Generator! This web-based application is designed
 # HOW TO USE
 
 
-  1. Type in password length.
+  1.Type in password length.
 
   2.Select type of password required (can also generate pins if you select only numbers). 
 
